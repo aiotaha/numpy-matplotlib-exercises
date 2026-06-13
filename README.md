@@ -6,6 +6,6 @@ This repository contains simple practice exercises using NumPy and Matplotlib in
 - **Data visualization with Matplotlib**
 - **Simple plotting examples**
 ## File
-- numpy_&_matplotlib.ipynb
+numpy_&_matplotlib.ipynb
 ## Purpose
 These exercises were created for learning and practicing fundamental Python data analysis and visualization concepts
