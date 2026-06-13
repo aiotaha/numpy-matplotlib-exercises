@@ -1,4 +1,4 @@
-#NumPy and Matplotlib Exercises#
+<h2>NumPy and Matplotlib Exercises</h2>
 This repository contains simple practice exercises using NumPy and Matplotlib in Python.
 Topics Covered
 Basic NumPy array operations
