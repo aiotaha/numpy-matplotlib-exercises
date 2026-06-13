@@ -1,0 +1,10 @@
+NumPy and Matplotlib Exercises
+This repository contains simple practice exercises using NumPy and Matplotlib in Python.
+Topics Covered
+Basic NumPy array operations
+Mathematical computations with NumPy
+Data visualization with Matplotlib
+Simple plotting examples
+File
+numpy_&_matplotlib.ipynb
+These exercises were created for learning and practicing fundamental Python data analysis and visualization concepts
